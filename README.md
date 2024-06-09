@@ -1,2 +1,5 @@
-# Face-Recognition-based-System
-The Face Recognition-Based Attendance System is an advanced solution designed to automate the attendance recording process using facial recognition technology. Leveraging powerful machine learning algorithms and computer vision, this system captures and recognizes the faces of individuals in real-time.
+# face-recognition-based-attendance-system  
+
+Do visit my blog for better explanations: https://machinelearningprojects.net/face-recognition-based-attendance-system/
+
+![Face Recognition Based Attendance System](ss.png)
